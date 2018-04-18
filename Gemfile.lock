@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ruby-openid (2.7.0)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  ruby-openid
+
+RUBY VERSION
+   ruby 2.5.1p57
+
+BUNDLED WITH
+   1.16.1
